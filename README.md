@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Alexander-Hawke
+- 👀 I’m interested in ... Open Source Software, Linux, Macros, Java, All Things Runescape
+- 🌱 I’m currently learning ... IktEngine, IktScript
+- 💞️ I’m looking to collaborate on ... Depends
+- 📫 How to reach me ... ahawke@tuta.com
+- 😄 Pronouns: ... ???
+- ⚡ Fun fact: ... I love Memes, Movies, Shows and write ideas on paper before they ever touch an IDE.
